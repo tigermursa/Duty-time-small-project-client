@@ -38,7 +38,7 @@ const MeetLinks = () => {
       id: "schedule",
       title: "Web L1 Schedule",
       icon: <FiExternalLink className="w-5 h-5" />,
-      url: "https://docs.google.com/",
+      url: "https://docs.google.com/c",
     },
   ];
 
