@@ -1,0 +1,77 @@
+[
+  {
+    "_id": {
+      "$oid": "67d9c072d6fce3320d8587ac"
+    },
+    "date": "2025-04-21",
+    "day": "Sunday",
+    "session1": "afternoon",
+    "session2": "night",
+    "groupMonitoring": {
+      "label": "Evening ",
+      "startTime": "18:30",
+      "endTime": "20:00"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67dc78e315028644097bea24"
+    },
+    "date": "2025-04-21",
+    "day": "Monday",
+    "session1": "night",
+    "session2": "none",
+    "groupMonitoring": {
+      "label": "Evening ",
+      "startTime": "18:00",
+      "endTime": "19:00"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67dc78f115028644097bea26"
+    },
+    "date": "2025-04-22",
+    "day": "Tuesday",
+    "session1": "afternoon",
+    "session2": "none",
+    "groupMonitoring": {
+      "label": "Deep Night",
+      "startTime": "01:00",
+      "endTime": "02:00"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67dc790415028644097bea28"
+    },
+    "date": "2025-04-23",
+    "day": "Wednesday",
+    "session1": "morning",
+    "session2": "none",
+    "groupMonitoring": {
+      "label": "Evening ",
+      "startTime": "15:00",
+      "endTime": "16:00"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67dc791615028644097bea2a"
+    },
+    "date": "2025-04-24",
+    "day": "Thursday",
+    "session1": "morning",
+    "session2": "afternoon",
+    "groupMonitoring": {
+      "label": "Evening ",
+      "startTime": "20:00",
+      "endTime": "21:30"
+    },
+    "__v": 0
+  }
+]
